@@ -13,8 +13,8 @@ const ALERT_EMAILS           = ['john@doe.com'];
 const DISPLAY_THRESHOLD      = 0.01;  // 1% of total spend
 const VIDEO_THRESHOLD        = 0.01;  // 1% of total spend
 const SEARCH_THRESHOLD       = 0.05;  // 5% of total spend
-const GMC_ID                 = 8653526;
-const MIN_CLICKS             = 1;
+const GMC_ID                 = 12345678; //The GMC account ID
+const MIN_CLICKS             = 10;
 
 
 
